@@ -1,0 +1,1 @@
+# Estudio-de-censura-por-Intervalos
